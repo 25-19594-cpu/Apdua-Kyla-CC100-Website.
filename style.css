@@ -27,15 +27,14 @@ header h1 {
   margin-bottom: 10px;
 }
 
-nav {
+nav ul {
   list-style: none;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  overflow: none;
 }
 
-nav {
+nav ul li {
   margin: 0 15px;
 }
 
@@ -174,3 +173,4 @@ footer {
     width: 90%;
   }
 }
+
